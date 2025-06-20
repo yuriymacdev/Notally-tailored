@@ -1,3 +1,9 @@
+# Tailored version changes
+
+- [ ] Forcing the delete icon to be always visible
+- [ ] Automatically deleting a note/tasklist if it was created but no changes were added
+- [ ] When a note/tasklist is created, inially the header is keyboard focused, not the content
+
 ### Background
 Notally was created because I wanted to make something that was beautiful and at the same time, useful. It's extremely light, there are minimal dependencies and lines of code.
 
@@ -12,9 +18,6 @@ Notally was created because I wanted to make something that was beautiful and at
 * Export notes as TXT, JSON, HTML or PDF files with formatting
 * Create rich text notes with support for bold, italics, mono space and strike-through
 * Add clickable links to notes with support for phone numbers, email addresses and web urls
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play"  height="70"/>](https://play.google.com/store/apps/details?id=com.omgodse.notally)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="70"/>](https://f-droid.org/packages/com.omgodse.notally/)
 
 ### Translations
 All translations are crowd sourced. To contribute, follow these [guidelines](https://m2.material.io/design/communication/writing.html) and email me or open a pull request.
